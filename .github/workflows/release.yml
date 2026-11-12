@@ -35,7 +35,7 @@ jobs:
             archive_ext: tar.gz
             package: tar
           - name: macos-aarch64
-            os: macos-14
+            os: macos-26
             binary: mesh-example
             target: aarch64-apple-darwin
             archive_ext: tar.gz
